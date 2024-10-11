@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\Каменева\practice_4_task_2_\practice_4_task_2_\obj\Debug\practice_4_task_2_.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Каменева\practice_4_task_2_\practice_4_task_2_\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\Каменева\practice_4_task_2_\practice_4_task_2_\obj\Debug\App.g.cs
+C:\Users\user\Desktop\Каменева\practice_4_task_2_\practice_4_task_2_\obj\Debug\practice_4_task_2__MarkupCompile.cache
+C:\Users\user\Desktop\Каменева\practice_4_task_2_\practice_4_task_2_\obj\Debug\practice_4_task_2__MarkupCompile.lref
